@@ -36,6 +36,5 @@ https://github.com/wshobson/agents/blob/main/mobile-developer.md
 https://github.com/wshobson/agents/blob/main/frontend-developer.md
 https://github.com/wshobson/agents/blob/main/debugger.md
 https://github.com/wshobson/agents/blob/main/content-marketer.md
-
-https://github.com/wshobson/agents/blob/main/tutorial-engineer.md (arabic app)
+https://github.com/wshobson/agents/blob/main/tutorial-engineer.md
 
